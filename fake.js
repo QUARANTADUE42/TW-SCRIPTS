@@ -1,6 +1,6 @@
 // OTO FAKE GECE BONUSU — core logic
-// Host this file on GitHub; Tampermonkey userscript loads it via @require:
-// https://raw.githubusercontent.com/<user>/<repo>/main/hosted/oto-fake-gece-bonusu-core.js
+// Hosted at: https://github.com/QUARANTADUE42/TW-SCRIPTS/blob/main/fake.js
+// Tampermonkey @require: https://raw.githubusercontent.com/QUARANTADUE42/TW-SCRIPTS/main/fake.js
 (function (global) {
     'use strict';
 
